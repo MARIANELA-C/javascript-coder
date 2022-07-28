@@ -1,0 +1,26 @@
+[
+       
+       { "nombre":"los tipitos",
+        "fecha":"17/08/2022",
+        "ciudad":"buenos aires",
+        "lugar":"estadio velez",
+        "entradas":"ENTRADAS AGOTADAS"},
+        
+        {"nombre":"airbag" ,
+         "fecha":"19/09/2022", 
+         "ciudad":"buenos aires", 
+         "lugar":"estadio river plate",
+         "entradas":"ENTRADAS AGOTADAS"},
+
+        {"nombre":"las pastillas de abuelo",
+         "fecha":"22/08/2022",
+        "ciudad":"buenos aires",
+         "lugar":"estadio boca jr.",
+         "entradas":"ENTRADAS AGOTADAS"},
+
+        {"nombre":"rodrigo tapari",
+         "fecha": "12/10/2022",
+          "ciudad":"neuquen",
+          "lugar":"mood",
+          "entradas":"ENTRADAS AGOTADAS"}
+   ]
